@@ -5,7 +5,7 @@ Private, offline-first study tracking app. React Native (Expo SDK 52).
 ## Setup
 
 ```bash
-cd study-app
+cd study-tracker
 
 # Delete node_modules and lockfile if they exist from a previous attempt
 rm -rf node_modules package-lock.json
